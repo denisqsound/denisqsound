@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @denisqsound
-- 🌱 I’m currently learning Golang, Python and Vue
+- 🌱 I’m currently Golang, Python and Vue programmer
 
 
 <!---
