@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @denisqsound
+## 👋 Hi, I’m @denisqsound
+- 🇧🇬 I live in Sofia, Bulgaria.
 - 🌱 I’m currently Golang, Python and Vue programmer
 
 
