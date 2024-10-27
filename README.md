@@ -14,4 +14,4 @@
 ## 🤝 Connect with me
 
 [![linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denisqsound/)
-[![me@denisqsound@gmail.com](https://img.shields.io/badge/me@denisqsound@gmail.com%20-%23E62B1E.svg?&style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:me@denisqsound@gmail.com)
+[![me@denisqsound@gmail.com](https://img.shields.io/badge/denisqsound@gmail.com%20-%23E62B1E.svg?&style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:denisqsound@gmail.com)
